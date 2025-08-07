@@ -39,6 +39,34 @@ Together, they make a pair where...
 A JSON "object" is simply a group of key-value pairs, grouped inside of curly braces { }. 
 
 ---
+### 📎 A Note on Indentation in JSON
+
+When working with **JSON files**, indentation and line breaks make the file easier for **humans** to read — but they aren't necessary for the computer.
+
+✅ These two are functionally **identical**:
+
+<pre> ```json { 
+    "name": "Jordan", 
+    "grade": 11, 
+    "interests": ["basketball", "coding", "music"] 
+  } ``` </pre>
+
+-and-
+
+{"name":"Jordan","grade":11,"interests":["basketball","coding","music"]}
+
+##👀 The second version is much easier for us to read because of:
+
+- Line breaks
+
+- Indentation
+
+But remember:
+
+What really matters is the structure — the organization into key-value pairs and objects.
+JSON doesn't care about spaces or hard returns!
+
+---
 
 ## 🎯 Why do we use JSON?
 
