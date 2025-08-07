@@ -1,4 +1,4 @@
-# 🧠 Getting Acquainted with GitHub
+# CC00 - Getting Acquainted with GitHub
 
 Welcome to your first activity in the world of Git and GitHub!
 
