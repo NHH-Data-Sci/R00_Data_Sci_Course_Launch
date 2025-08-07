@@ -9,6 +9,59 @@ By the end of this activity, you will have:
 - Completed your first GitHub commit(s)
 
 ---
+# 🧠 Git vs GitHub: What's the Difference?
+
+## 💡 What is **Git**?
+
+**Git** stands for... absolutely nothing!
+
+> It’s not an acronym — just a short, punchy name that [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) (the creator of Linux) chose in 2005.
+
+That said, some fun backronyms have been made up like:
+- **"Global Information Tracker"**
+- Or, jokingly, **"Goddamn Idiotic Truckload of sh\*"** (Linus had a sense of humor)
+
+### 🔧 So what *is* Git?
+
+Git is a **version control system**.
+
+It helps you:
+- Save **snapshots** of your code or work
+- **Track changes** over time
+- Go **back to earlier versions** if something breaks
+- **Collaborate** without overwriting each other
+
+> Think of Git like **Google Docs version history**, but for code and projects — and way more powerful.
+
+---
+
+## 🌐 What is **GitHub**?
+
+**GitHub** is a **website + cloud service** built around Git.
+
+It lets you:
+- Store your Git repositories **online**
+- **Collaborate** with others (with issues, pull requests, wikis, etc.)
+- Create **classrooms**, manage **assignments**, and review student work
+- Show off your code and projects to the world
+
+> Git is like your **local notebook**.  
+> GitHub is like **publishing that notebook** to the web and **working with others on it**.
+
+---
+
+## 📊 TL;DR Summary
+
+| Term       | What It Means                        | What It Does                            |
+|------------|--------------------------------------|-----------------------------------------|
+| **Git**    | Version control system (local)       | Tracks changes to files, saves history  |
+| **GitHub** | Website + cloud for Git projects     | Makes sharing & collaboration easy      |
+
+---
+
+*Want a visual metaphor? Git is your save button. GitHub is your online multiplayer workspace.*
+
+---
 
 ## ✅ Step-by-Step Instructions
 
