@@ -68,10 +68,9 @@ You’ll see JSON files used for:
 
 Can you create a `.json` file that includes:
 - Your name  
-- Your favorite subject  
+- Your favorite food  
 - One goal for this course  
 
-📁 Save it, and upload it to your repo.  
-💥 Boom — you just joined the world of structured data.
+📁 Name it "TD02_MY_JSON", and commit it to your repo.  
 
 ---
