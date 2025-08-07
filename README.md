@@ -5,7 +5,7 @@
 This activity kicks off our year together!  
 In this course, you’ll learn how to work with data, understand how AI tools operate, and build real-world skills in spreadsheets, coding, and project development.
 
-But before we jump in, let's get clear on **how this class runs**, what you’ll be expected to do, and how to succeed.
+But before we jump in, let's take some time to get on the same page regarding on **how this class runs**, what you’ll be expected to do, and how to succeed.
 
 ---
 
