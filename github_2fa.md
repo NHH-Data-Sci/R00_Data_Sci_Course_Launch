@@ -1,20 +1,14 @@
-# 🔐 GitHub 2FA Setup & Recovery Guide
+# 🔐 CC01 - GitHub 2FA Setup & Recovery Guide
 
 Two-Factor Authentication (2FA) adds extra security to your GitHub account. If GitHub asks you to enable 2FA, follow this guide carefully.
 
----
+(Note: GitHub may be requiring this more and more.)
 
-## ✅ Step 1: Turn on 2FA in GitHub
-
-1. Go to [https://github.com](https://github.com)
-2. Click your profile icon → **Settings**
-3. Go to **Password and Authentication**
-4. Click **“Enable two-factor authentication”**
-5. Choose **“Authentication App”**
+## We will work to satisfy this requirement 2 different ways (for redundancy). 
 
 ---
 
-## ✅ Step 2: Use an In-Browser Authenticator
+## Method 1: Use an In-Browser Authenticator
 
 > You may NOT use your phone in class, so use this extension instead:
 
@@ -26,7 +20,7 @@ Two-Factor Authentication (2FA) adds extra security to your GitHub account. If G
 
 ---
 
-## 🛡️ Step 3: Save Your Recovery Codes
+## Method 2: Save Your Recovery Codes
 
 Once 2FA is set up, GitHub will show you a list of **8 recovery codes**. These codes are one-time-use and let you log in if 2FA fails.
 
@@ -45,3 +39,6 @@ Then copy the codes one by one like this:
 2) 3b2f-xxxx-xxxx-xxxx
 
 ### 📇 DO THE SAME ON THE INDEX CARD YOUR TEACHER GAVE YOU
+
+### IF YOU NEED TO USE A CODE, YOU NEED TO CROSS IT OFF OF YOUR LIST.
+### IF YOU SHOULD HAVE JUST 2 CODES LEFT, BE SURE TO GET MORE CODES.
