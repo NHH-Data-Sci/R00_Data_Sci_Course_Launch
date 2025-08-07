@@ -99,6 +99,6 @@ Can you create a `.json` file that includes:
 - Your favorite food  
 - One goal for this course  
 
-📁 Name it "TD02_MY_JSON", and commit it to your repo.  
+📁 Try this out in "TD02_MY_JSON" and commit it to your repo.  
 
 ---
