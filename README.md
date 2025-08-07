@@ -1,4 +1,4 @@
-# A00 – Getting Started with Data Science
+# R00 – Data Sci Course Launch
 
 Welcome! Over the next few days you will:
 - Set up and access your GitHub account
