@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the classroom policy on cellphones and smart devices?",
+    "options": [
+      "Phones must be on silent",
+      "Smartwatches are allowed",
+      "Cellphones are allowed with permission",
+      "No cellphones or smart devices at all"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "What item should you always have out at the beginning of class?",
+    "options": [
+      "Laptop",
+      "Composition notebook and writing utensil",
+      "Chromebook",
+      "Smartphone"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "What days are typically tech-free in this class?",
+    "options": [
+      "Tuesday and Wednesday",
+      "Monday and Friday",
+      "Wednesday and Thursday",
+      "Every day is tech-free"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of your grade comes from participation?",
+    "options": [
+      "20%",
+      "40%",
+      "60%",
+      "100%"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is NOT allowed during class time?",
+    "options": [
+      "Using Chromebooks",
+      "Using Data Science Lab desktop PCs when told",
+      "Using personal devices for schoolwork",
+      "Using highlighters"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Why must students stay in their assigned seat?",
+    "options": [
+      "So the teacher can find them easily",
+      "Because the desks are numbered",
+      "Because each student logs in to a specific computer",
+      "To make group work easier"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "Which day is set aside for vocabulary and Excel work?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "What should you do before turning on your computer?",
+    "options": [
+      "Open your email",
+      "Start logging in",
+      "Wait for teacher instructions",
+      "Plug in your phone"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "What must students do to complete syllabus receipt?",
+    "options": [
+      "Only sign a paper",
+      "Bring a parent to class",
+      "Submit a signed form and confirm a parent contacted the teacher",
+      "Write an essay"
+    ],
+    "answer": "",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final goal of the course?",
+    "options": [
+      "To memorize AI terms",
+      "To finish all quizzes",
+      "To complete a Final Data Science Project that tells a real story",
+      "To learn programming only"
+    ],
+    "answer": "",
+    "explanation": ""
+  }
+]

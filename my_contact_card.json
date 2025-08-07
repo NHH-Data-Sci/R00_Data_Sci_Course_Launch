@@ -1,0 +1,32 @@
+{
+  "student_info": {
+    "records_first_name": "",
+    "records_last_name": "",
+    "preferred_name": "",
+    "grade_level": "",
+    "school_email": "",
+    "personal_email": "",
+    "cell_phone": ""
+  },
+  "household_contact": {
+    "name": "",
+    "relationship": "",
+    "primary_phone": "",
+    "email": "",
+    "preferred_contact_method": ""
+  },
+  "emergency_contact": {
+    "name": "",
+    "phone": "",
+    "relationship": ""
+  },
+  "home_address": {
+    "street": "",
+    "city_state_zip": ""
+  },
+  "acknowledgment": {
+    "statement": "I understand that a household contact must call, text, or email the teacher for this contact card to be considered complete and receive credit.",
+    "student_signature": "",
+    "date": ""
+  }
+}

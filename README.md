@@ -1,37 +1,37 @@
-# A00: Data Science Overview
+# A00 – Getting Started with Data Science
 
-### 🧭 Welcome to Data Science with AI
-
-This activity kicks off our year together!  
-In this course, you’ll learn how to work with data, understand how AI tools operate, and build real-world skills in spreadsheets, coding, and project development.
-
-But before we jump in, let's take some time to get on the same page regarding on **how this class runs**, what you’ll be expected to do, and how to succeed.
-
----
-
-### 📘 What You'll Learn Today
-By the end of this activity, you should understand:
-- The core **goals** of this course
-- Weekly **routines** and how assignments work
-- Our **tech rules** and **cell phone policy**
-- Why your **seating chart** matters
-- How to log into your class computer and submit work
+Welcome! Over the next few days you will:
+- Set up and access your GitHub account
+- Learn the basics of how GitHub will be used in this course
+- Review the course syllabus and expectations
+- Submit your contact info to your private repo
 
 ---
 
-### 🛠️ Activities
-1. Read the syllabus: [`syllabus.pdf`](./syllabus.pdf)
-2. Fill out `student_agreement.md` with:
-   - A short reflection on what you're most excited about
-   - Your understanding of tech expectations and routines
-   - Your acknowledgment of the seating chart policy
-3. Submit your completed file via GitHub (see steps below)
+## 🧠 Learning Goals
+- Understand how GitHub will be used for submitting work
+- Review all class routines, rules, and expectations
+- Practice submitting your first Markdown activity
 
 ---
 
-### 💻 Submitting Work
-You’ll be using GitHub all year to submit and track your work. For this first assignment:
-```bash
-git add .
-git commit -m "Completed A00 Overview"
-git push
+## 📋 Tasks This Week
+1. **Getting Acquainted with Git** (`getting_acquainted_git.md`)
+   - Learn about commits, pushes, and how to work in your repo.
+
+2. **Syllabus Review** (`syllabus_review.md`)
+   - Read and reflect on 5 important parts of the syllabus.
+
+3. **Contact Card** (`contact_card.md`)
+   - Fill out your basic info, tech situation, and preferred seat.
+
+---
+
+## 🔗 Additional Resources
+- [Streamlit Portal (for future activities)](http://<streamlit-local-link>)
+- [GitHub Desktop (Q2+)](https://desktop.github.com)
+
+---
+
+## ✅ Submit by:
+Push your Markdown responses to your private repo by the posted due date.
