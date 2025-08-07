@@ -6,7 +6,7 @@ By the end of this activity, you will have:
 - Created or logged into your GitHub account
 - Joined the Data Science GitHub Classroom
 - Claimed your own private copy of this assignment repository
-- Completed your first GitHub commit
+- Completed your first GitHub commit(s)
 
 ---
 
@@ -15,16 +15,21 @@ By the end of this activity, you will have:
 ### 1. Go to [github.com](https://github.com)
 - If you already have a GitHub account, log in.
 - If not, click **Sign up** and create one using your **school email**.
+- You will need to create a unique name for your github account.
+  - The choice is yours.
+  - This is a school.
+  - This is a professional development course. 
 
 ---
 
-### 2. Join the NHH Data Science GitHub Classroom
-To receive your own private version of this assignment:
+### 2. Check your email for a join link from me: 
+  - This link connects you to your own this assignment.
+  - I will also email the URL to the Data Science Syllabus, Scope & Sequence Repository (<--BOOKMARK THIS)
 
 🔗 Click this link or enter this join code:  
 **👉 [INSERT JOIN LINK HERE]**  
-**OR**  
-**👉 Classroom Code: `your-code-here`**
+
+(As students join, I will add them to the classroom using their unique identifier.)
 
 Follow the prompts to accept the assignment.
 
