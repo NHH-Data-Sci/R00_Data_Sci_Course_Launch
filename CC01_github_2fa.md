@@ -1,26 +1,18 @@
 # 🔐 CC01 - GitHub 2FA Setup & Recovery Guide
 
-Two-Factor Authentication (2FA) adds extra security to your GitHub account. If GitHub asks you to enable 2FA, follow this guide carefully.
+Two-Factor Authentication (2FA) adds extra security to your GitHub account. 
 
 (Note: GitHub may be requiring this more and more.)
 
-## We will work to satisfy this requirement 2 different ways (for redundancy). 
+The most common form of 2FA is to include a phone number you have access to. But...
+
+## I CANNOT HAVE MY PHONE OUT IN CLASS. 
 
 ---
-
-## Method 1: Use an In-Browser Authenticator
-
-> You may NOT use your phone in class, so use this extension instead:
-
-🔗 [Authenticator Chrome Extension](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai)
-
-1. Click “Scan QR code” inside the extension
-2. Point it at the GitHub QR code on your screen
-3. Enter the 6-digit code it gives you into GitHub to complete setup
-
+## If GitHub asks you to enable 2FA, follow this guide carefully.
 ---
 
-## Method 2: Save Your Recovery Codes
+## Method 1: Save Your Recovery Codes
 
 Once 2FA is set up, GitHub will show you a list of **8 recovery codes**. These codes are one-time-use and let you log in if 2FA fails.
 
@@ -42,3 +34,5 @@ Then copy the codes one by one like this:
 
 ### IF YOU NEED TO USE A CODE, YOU NEED TO CROSS IT OFF OF YOUR LIST.
 ### IF YOU SHOULD HAVE JUST 2 CODES LEFT, BE SURE TO GET MORE CODES.
+
+## Method 2: Still set up your 2FA with your phone
