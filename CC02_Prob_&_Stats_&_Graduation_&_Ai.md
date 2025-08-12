@@ -1,4 +1,4 @@
-# 🎓 Why Probability & Statistics Matters — Especially in the Age of AI
+# 🎓 CC02 - Why Probability & Statistics Matters — Especially in the Age of AI
 
 ## ✅ This Counts as a 4th Math Credit
 
